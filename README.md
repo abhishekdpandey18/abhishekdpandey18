@@ -13,8 +13,9 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?abhishekdpandey18=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Abhishek Pandey's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekdpandey18&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdpandey18&layout=compact&theme=radical)
+
 <!---
 abhishekdpandey18/abhishekdpandey18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
