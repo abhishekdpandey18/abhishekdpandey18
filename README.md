@@ -1,4 +1,7 @@
 # Hi there! 👋 I'm Abhishek Pandey.
+
+🎓 Currently pretending to understand everything in class — so far, so good.
+
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on: its a secret.
