@@ -11,7 +11,10 @@
 
 - 🔗 [Chess Game in Java](https://github.com/abhishekdpandey18/CheckMate-Java): A full-featured chess app with GUI and persistence layer.
 
+## 📊 GitHub Stats
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?abhishekdpandey18=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 <!---
 abhishekdpandey18/abhishekdpandey18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
