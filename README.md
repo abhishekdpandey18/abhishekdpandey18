@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Abhishek Pandey]
+# Hi there! 👋 I'm Abhishek Pandey.
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on: [Your Project or Job]
