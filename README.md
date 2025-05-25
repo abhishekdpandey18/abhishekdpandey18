@@ -1,11 +1,15 @@
 # Hi there! 👋 I'm Abhishek Pandey.
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on: [Your Project or Job]
-- 🌱 I’m currently learning: [Tech Stack or Framework]
-- 💬 Ask me about: Java, Spring Boot, REST APIs, SQL
-- 📫 How to reach me: [Email or LinkedIn]
-- ⚡ Fun fact: I build side projects to automate boring tasks 😄
+- 🔭 I’m currently working on: its a secret.
+- 🌱 Currently learning: To drink coffee before debugging.
+- 💬 Ask me about: Why my code works... I have no idea either 🤷‍♂️.
+- 📫 How to reach me: Try shouting my username into the void — it sometimes works.
+- ⚡ Fun fact: I treat semicolons like optional seasoning.
+
+## 📂 Featured Projects
+
+- 🔗 [Chess Game in Java](https://github.com/abhishekdpandey18/CheckMate-Java): A full-featured chess app with GUI and persistence layer.
 
 
 <!---
