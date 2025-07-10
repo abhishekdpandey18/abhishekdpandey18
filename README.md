@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekdpandey18&show_icons=true&theme=github_dark)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekdpandey18&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdpandey18&layout=compact&theme=radical)
 
 <!---
